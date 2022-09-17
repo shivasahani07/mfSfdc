@@ -1,0 +1,5 @@
+<apex:page controller="ListOfAccount">
+  <!-- Begin Default Content REMOVE THIS -->
+ <p> {!accList}</p>
+  <!-- End Default Content REMOVE THIS -->
+</apex:page>

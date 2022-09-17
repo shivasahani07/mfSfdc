@@ -1,0 +1,5 @@
+<apex:page >
+    <h1>
+        Contacts
+    </h1>
+</apex:page>
